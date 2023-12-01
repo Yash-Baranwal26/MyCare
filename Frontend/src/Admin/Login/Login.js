@@ -18,7 +18,7 @@ export default function Login() {
           <div className='card shadow'>
             <img className='card-img-top'
             alt='card iamge'
-            src='/Images/Patient.jpg'
+            src='/Images/patient-l.jpg'
             height="300"
             />
             <div className='card-body text-center'>
